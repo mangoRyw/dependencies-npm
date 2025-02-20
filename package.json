@@ -1,6 +1,6 @@
 {
   "name": "dependencies-npm",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,9 +12,8 @@
   "dependencies": {
     "debounce": "2.2.0",
     "moment": "2.30.1",
-    "produkt_test_1": "1.0.1",
+    "produkt_test_2": "1.0.2",
     "qubris-sheets": "1.0.0",
-    "shorten-hexdcolor": "0.2.1",
-    "test1": "1.0.0"
+    "shorten-hexdcolor": "0.2.1"
   }
 }
