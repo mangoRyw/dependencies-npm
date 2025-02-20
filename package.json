@@ -12,6 +12,7 @@
   "dependencies": {
     "debounce": "2.2.0",
     "moment": "2.30.1",
+    "qubris-sheets": "1.0.1",
     "shorten-hexdcolor": "0.2.1"
   }
 }
